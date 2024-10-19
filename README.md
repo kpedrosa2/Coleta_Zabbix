@@ -1,0 +1,2 @@
+# Coleta_Zabbix
+ Este script Python utiliza a API do Zabbix 7.0 para coletar dados de monitoramento. Ele realiza a autenticação via API, obtendo o token de acesso, e permite a extração de informações como hosts, itens e triggers monitorados. Para começar, configure suas credenciais de API e o endpoint do Zabbix. O script utiliza a biblioteca requests para fazer chamadas HTTP e processa as respostas JSON retornadas pela API.
